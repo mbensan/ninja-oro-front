@@ -1,0 +1,35 @@
+nav {
+  background-image: url("https://www.shutterstock.com/image-vector/falling-golden-poker-chips-tokens-600nw-1933775606.jpg");
+
+}
+
+
+body {
+  background-image: url("https://www.shutterstock.com/image-vector/falling-golden-poker-chips-tokens-600nw-1933775606.jpg");
+}
+
+footer {
+  background-image: url("https://www.shutterstock.com/image-vector/falling-golden-poker-chips-tokens-600nw-1933775606.jpg");
+  padding: 20px 0;
+  /* Espaciado interno */
+  text-align: center;
+  /* Texto centrado */
+  color: white;
+  /* Color de texto para el pie de página */
+}
+
+.card {
+  background-color: #D5D8DC;
+  border: #17202A 3px solid;
+}
+
+#inputt {
+  background-color: #efb810;
+}
+
+.carousel-inner img {
+  width: 10%;
+  /* Tamaño a la mitad */
+  margin: auto;
+  /* Centra la imagen */
+}
